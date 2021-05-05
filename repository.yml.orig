@@ -51,7 +51,7 @@ repo.deps:
         type: git
         user: decawave
         repo: uwb-dw1000
-        url: 'git@github.com:Decawave/uwb-dw1000.git'
+        url: 'git@github.com:khhan0703/uwb-dw1000.git'
         vers:
             master: 0-dev
             uwb_core_0_1_0_tag: 0.9.0
@@ -61,7 +61,7 @@ repo.deps:
 #3K         type: git                                        # 3KAccess Only
 #3K         user: decawave                                   # 3KAccess Only
 #3K         repo: uwb-dw3000-c0                              # 3KAccess Only
-#3K         url: 'git@github.com:Decawave/uwb-dw3000-c0.git' # 3KAccess Only
+#3K         url: 'git@github.com:khhan0703/uwb-dw3000-c0.git' # 3KAccess Only
 #3K         vers:                                            # 3KAccess Only
 #3K             master: 0-dev                                # 3KAccess Only
 #3K             uwb_core_0_1_0_tag: 0.1.0                    # 3KAccess Only
